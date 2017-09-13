@@ -9,6 +9,18 @@
 - https://www.acmicpc.net/problem/4217 (신성문자)
 - https://www.acmicpc.net/problem/10798 (세로 읽기)
 - https://www.acmicpc.net/problem/1110 (더하기 사이클)
+- https://www.acmicpc.net/problem/1004 (어린왕자)
+- https://www.acmicpc.net/problem/2075 (N번째 큰 수)
+
+### Brute Force
+- https://www.acmicpc.net/problem/1182 (부분집합의 합)
+- https://www.acmicpc.net/problem/2669 (직사각형 네개의 합집합 면적)
+
+### Divide & Conquer
+- https://www.acmicpc.net/problem/1992 (쿼드트리)
+
+### Partial Sum
+- https://www.acmicpc.net/problem/11659 (구간합 구하기)
 
 ### Sorting
 - https://www.acmicpc.net/problem/10825 (국영수 점수 정렬)
@@ -36,6 +48,7 @@
 
 ### Stack
 - https://www.acmicpc.net/problem/9012 (괄호 쌍 맞는지 확인)
+- https://www.acmicpc.net/problem/1918 (후위 표기식)
 
 ### Tree
 - https://www.acmicpc.net/problem/11725 (트리의 부모 찾기)
