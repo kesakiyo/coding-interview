@@ -11,10 +11,14 @@
 - https://www.acmicpc.net/problem/1110 (더하기 사이클)
 - https://www.acmicpc.net/problem/1004 (어린왕자)
 - https://www.acmicpc.net/problem/2075 (N번째 큰 수)
+- https://www.acmicpc.net/problem/2790 (F7)
 
 ### Brute Force
 - https://www.acmicpc.net/problem/1182 (부분집합의 합)
 - https://www.acmicpc.net/problem/2669 (직사각형 네개의 합집합 면적)
+
+### Binary Search
+- https://www.acmicpc.net/problem/14616 (Explore space)
 
 ### Divide & Conquer
 - https://www.acmicpc.net/problem/1992 (쿼드트리)
@@ -40,6 +44,10 @@
 - https://www.acmicpc.net/problem/7571 (점 모으기)
 - https://www.acmicpc.net/problem/7570 (줄 세우기, LIS 아님)
 
+### Sorting
+- https://www.acmicpc.net/problem/2751 (수 정렬하기 2) => library 사용 금지
+- https://www.acmicpc.net/problem/10989 (수 정렬하기 3)
+
 ### String
 - https://www.acmicpc.net/problem/9494 (데구르르)
 - https://www.acmicpc.net/problem/3059 (등장하지 않는 문자의 합)
@@ -63,3 +71,4 @@
 ### DFS
 - https://www.acmicpc.net/problem/4963 (섬의 개수)
 - https://www.acmicpc.net/problem/3264 (ONE)
+- https://www.acmicpc.net/problem/14615 (Defend the CTP!!!)
